@@ -1,18 +1,1 @@
-{
-  "name": "sample-web-integration",
-  "version": "0.0.0",
-  "private": true,
-  "scripts": {
-    "start": "node ./bin/www"
-  },
-  "dependencies": {
-    "axios": "^0.21.1",
-    "cookie-parser": "~1.4.4",
-    "debug": "~2.6.9",
-    "dotenv": "^8.2.0",
-    "ejs": "~2.6.1",
-    "express": "~4.16.1",
-    "http-errors": "~1.6.3",
-    "morgan": "~1.9.1"
-  }
-}
+{"name":{"start":"sample-web-integration","axios":"sample-web-integration","cookie-parser":"sample-web-integration","debug":"sample-web-integration","dotenv":"sample-web-integration","ejs":"sample-web-integration","express":"sample-web-integration","http-errors":"sample-web-integration","morgan":"sample-web-integration"},"version":{"start":"0.0.0","axios":"0.0.0","cookie-parser":"0.0.0","debug":"0.0.0","dotenv":"0.0.0","ejs":"0.0.0","express":"0.0.0","http-errors":"0.0.0","morgan":"0.0.0"},"private":{"start":true,"axios":true,"cookie-parser":true,"debug":true,"dotenv":true,"ejs":true,"express":true,"http-errors":true,"morgan":true},"scripts":{"start":"node .\/bin\/www","axios":null,"cookie-parser":null,"debug":null,"dotenv":null,"ejs":null,"express":null,"http-errors":null,"morgan":null},"dependencies":{"start":null,"axios":"0.23.0","cookie-parser":"~1.4.4","debug":"~2.6.9","dotenv":"^8.2.0","ejs":"~2.6.1","express":"~4.16.1","http-errors":"~1.6.3","morgan":"~1.9.1"}}
